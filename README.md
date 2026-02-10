@@ -1,2 +1,2 @@
-# Mziza--website
+# Mziza-website
 The official website 
